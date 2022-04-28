@@ -4,6 +4,8 @@ Welcome to your new dbank project and to the internet computer development commu
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
+The purpose of this project is to create an application that uses compounding interest as well as deposits and withdraws to demonstrate how cryptocurrency transactions can take place on the new ICP Network. 
+
 To learn more before you start working with dbank, see the following documentation available online:
 
 - [Quick Start](https://sdk.dfinity.org/docs/quickstart/quickstart-intro.html)
